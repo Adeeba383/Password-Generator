@@ -11,4 +11,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 # Play the program
 Check the program and generate your password on your own. The link is given below.
-(https://github.com/Adeeba383/Password-Generator.git)
+(https://adeeba383.github.io/Password-Generator/)
